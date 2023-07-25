@@ -42,11 +42,10 @@ If you have any further questions, join our discord server, and we can help you 
 
 
 ## Quick Links
+<div>
+    <a href="https://racingleaguetools.com/"><img src="https://racingleaguetools.com/images/rlt_icon.png" alt="Website Icon"  height="130px" /></a>
+    <a href="https://discord.com/invite/faE4bmnJmz"><img align="right" src="https://discordapp.com/api/guilds/904276286359347220/widget.png?style=banner3" alt="Discord Banner" height="130px" /></a>
+</div>
 
-![Discord Banner](https://discordapp.com/api/guilds/904276286359347220/widget.png?style=banner3)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Website Icon](https://racingleaguetools.com/images/rlt_icon.png)](https://racingleaguetools.com/)
-
-
-
-<p align="right">(<a href="#readme-top">Back to Top</a>)</p>
+<br />
+<p align="right"><a href="#readme-top">(Back to Top)</a></p>
