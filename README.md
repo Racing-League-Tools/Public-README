@@ -5,7 +5,7 @@
 <!-- PROJECT SUMMARY -->
 <br />
 <div align="center">
-  <img src="https://racingleaguetools.com/images/rlt_icon.png" alt="Logo" width="120px">
+  <img src="https://racingleaguetools.com/images/rlt_icon.png" alt="Logo" height="120px">
   <br />
   <p align="center">
     An app for simplifying sim-racing league management
@@ -43,8 +43,8 @@ If you have any further questions, join our discord server, and we can help you 
 
 ## Quick Links
 <div>
-    <a href="https://racingleaguetools.com/"><img src="https://racingleaguetools.com/images/rlt_icon.png" alt="Website Icon"  height="130px" /></a>
-    <a href="https://discord.com/invite/faE4bmnJmz"><img align="right" src="https://discordapp.com/api/guilds/904276286359347220/widget.png?style=banner3" alt="Discord Banner" height="130px" /></a>
+    <a href="https://racingleaguetools.com/"><img src="https://racingleaguetools.com/images/rlt_icon.png" alt="Website Icon"  height="120px" /></a>
+    <a href="https://discord.com/invite/faE4bmnJmz"><img align="right" src="https://discordapp.com/api/guilds/904276286359347220/widget.png?style=banner3" alt="Discord Banner" height="120px" /></a>
 </div>
 
 <br />
